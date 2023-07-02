@@ -15,4 +15,8 @@ footer {
     color: white;
     text-align: center;
 }
+
+html {
+    font-family: 'Permanent Marker', cursive;
+}
 </style>
